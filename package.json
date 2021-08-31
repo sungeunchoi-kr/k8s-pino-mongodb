@@ -1,0 +1,13 @@
+{
+  "name": "k8s-pino-mongodb",
+  "version": "1.0.0",
+  "description": "Transport logs from containers in the same k8s node (run as a DaemonSet) to mongodb.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
